@@ -1,0 +1,18 @@
+/* YOUR CUSTOM STYLES */
+
+
+.span-DL1 {
+    color: rgb(173,142,116);
+    font-size: 1.2rem;
+    font-family: 'Oranienbaum', serif;
+}
+
+.fuente-nav {
+    font-family: 'Oranienbaum', serif;
+    font-size: 1.2rem;
+}
+
+.navbar.navbar-dark .navbar-nav .nav-item a {
+    color: black!important;
+    transition: .35s;
+}
