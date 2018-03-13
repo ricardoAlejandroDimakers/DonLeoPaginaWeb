@@ -7,8 +7,8 @@
             <!--Collapse content-->
             <div class="collapse navbar-toggleable-xs" id="collapseEx">
                 <!--Navbar Brand-->
-                <a class="navbar-brand" href="/" style="width:27%;">
-                    <img src="<?php asset("img/LogoDonLeo.png") ?>" class="final-lg" style="width: 25%;" >
+                <a class="navbar-brand" href="/" style="width:27%; ">
+                    <img src="<?php asset("img/LogoDonLeo.png") ?>" class="final-lg" style="width: 25%; margin-left:10%;" >
                 </a>
 
                 <ul class="nav navbar-nav fuente-nav" style="float: right; padding-top:0.5%;">
