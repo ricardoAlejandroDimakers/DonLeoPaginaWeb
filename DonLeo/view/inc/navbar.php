@@ -42,11 +42,13 @@
         </div>
         <br>
         <div class = "col-md-12" style="padding-left:0px; padding-right:0px;">
-        <video width="100%;" height="100%;"autoplay loop="1">
+        <video width="100%;" height="75%;"autoplay loop="1">
         <source src="<?php asset("img/video-background-uvas-02.mp4") ?>" type="video/mp4">
         <source src="movie.ogg" type="video/ogg">
         Your browser does not support the video tag.
         </video>
         </div>
+
+        <div class="ex-DL">EXCELENCIA DE LA UVA AL VINO</div>
 </nav>
 

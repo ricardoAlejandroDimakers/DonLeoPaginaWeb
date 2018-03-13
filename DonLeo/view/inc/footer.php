@@ -61,7 +61,7 @@
                               <li><a href="#!" style="color: white;">EL VINO</a></li>
                           </ul>
 
-                          <img src="<?php asset("img/firmaLeoMendel.png") ?>" class="final-lg" style="width: 25%; margin-right:5%;" >
+                          <img src="<?php asset("img/firmaLeoMendel2.png") ?>" class="final-lg" style="width: 73%; margin-right:5%;" >
                       </div>
                   </div>
                   <!--/.Second column-->

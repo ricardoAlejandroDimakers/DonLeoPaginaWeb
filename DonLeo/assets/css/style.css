@@ -28,3 +28,14 @@
     color: black!important;
     transition: .35s;
 }
+
+div.ex-DL {
+    position: absolute;
+    z-index: 1;
+    bottom: -1%;
+    left: 3%;
+    color: white;
+    font-family: 'Oranienbaum', serif;
+    font-size: 2.3rem;
+
+}
