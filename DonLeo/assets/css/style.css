@@ -19,6 +19,47 @@
     font-family: 'Oranienbaum', serif;
 }
 
+.span-DL4 {
+    color: black;
+    font-size: 2rem;
+    font-family: 'Oranienbaum', serif;
+    text-align: center;
+}
+
+.span-DL5 {
+    color: black;
+    font-size: 0.8rem;
+    font-family: 'Oranienbaum', serif;
+    text-align: center;
+    float: left;
+    padding-bottom: 25%;
+}
+
+.span-DL6 {
+    color: palevioletred;
+    font-size: 2rem;
+    font-family: 'Oranienbaum', serif;
+    text-align: center;
+    writing-mode: vertical-lr;
+    transform: rotate(180deg);
+}
+
+.span-DL7 {
+    color: black;
+    font-size: 0.8rem;
+    font-family: 'Oranienbaum', serif;
+    text-align: center;
+    float: inherit;
+    line-height: 0.7em;
+}
+
+.span-DL8 {
+    color: black;
+    font-size: 0.8rem;
+    font-family: 'Oranienbaum', serif;
+    text-align: center;
+}
+
 .fuente-nav {
     font-family: 'Oranienbaum', serif;
     font-size: 1.2rem;
@@ -28,6 +69,11 @@
     color: black!important;
     transition: .35s;
 }
+
+.carousel indicators li indicadores{
+    background-color: black;
+}
+
 
 div.ex-DL {
     position: absolute;

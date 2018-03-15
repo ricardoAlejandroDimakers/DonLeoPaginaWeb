@@ -4,6 +4,7 @@
 $ruta = new Ruta();
 $ruta->controladores(array(
     "/"=>"PrincipalController",
-    "/usuarios"=>"UsuarioController"
+    "/usuarios"=>"UsuarioController",
+    "/infoproductos"=>"ProductosController"
 
 ));
