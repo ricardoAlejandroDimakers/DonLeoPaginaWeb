@@ -28,15 +28,16 @@
 
 .span-DL5 {
     color: black;
-    font-size: 0.8rem;
+    font-size: 0.7rem;
     font-family: 'Oranienbaum', serif;
-    text-align: center;
     float: left;
     padding-bottom: 25%;
+    padding-top: 10%;
+    text-transform:uppercase;
 }
 
 .span-DL6 {
-    color: palevioletred;
+    color: rgb(241,159,160);
     font-size: 2rem;
     font-family: 'Oranienbaum', serif;
     text-align: center;
@@ -46,11 +47,8 @@
 
 .span-DL7 {
     color: black;
-    font-size: 0.8rem;
+    font-size: 0.72rem;
     font-family: 'Oranienbaum', serif;
-    text-align: center;
-    float: inherit;
-    line-height: 0.7em;
 }
 
 .span-DL8 {
@@ -58,6 +56,137 @@
     font-size: 0.8rem;
     font-family: 'Oranienbaum', serif;
     text-align: center;
+}
+
+.span-DL9 {
+    color: rgb(173,142,116);
+    font-size: 2rem;
+    font-family: 'Oranienbaum', serif;
+    text-align: center;
+    writing-mode: vertical-lr;
+    transform: rotate(180deg);
+}
+
+.span-DL10 {
+    color: rgb(177,158,90);
+    font-size: 2rem;
+    font-family: 'Oranienbaum', serif;
+    text-align: center;
+    writing-mode: vertical-lr;
+    transform: rotate(180deg);
+}
+
+.span-DL11 {
+    color: rgb(141,55,68);
+    font-size: 2rem;
+    font-family: 'Oranienbaum', serif;
+    text-align: center;
+    writing-mode: vertical-lr;
+    transform: rotate(180deg);
+}
+
+.span-DL12 {
+    color: rgb(145,147,150);
+    font-size: 2rem;
+    font-family: 'Oranienbaum', serif;
+    text-align: center;
+    writing-mode: vertical-lr;
+    transform: rotate(180deg);
+}
+
+.span-DL13 {
+    color: rgb(72,171,198);
+    font-size: 2rem;
+    font-family: 'Oranienbaum', serif;
+    text-align: center;
+    writing-mode: vertical-lr;
+    transform: rotate(180deg);
+}
+
+.span-DL14 {
+    color: rgb(227,152,71);
+    font-size: 2rem;
+    font-family: 'Oranienbaum', serif;
+    text-align: center;
+    writing-mode: vertical-lr;
+    transform: rotate(180deg);
+}
+
+.span-DL15 {
+    color: rgb(65,64,66);
+    font-size: 2rem;
+    font-family: 'Oranienbaum', serif;
+    text-align: center;
+    writing-mode: vertical-lr;
+    transform: rotate(180deg);
+}
+
+.span-DL16 {
+    color: rgb(165,27,47);
+    font-size: 2rem;
+    font-family: 'Oranienbaum', serif;
+    text-align: center;
+    writing-mode: vertical-lr;
+    transform: rotate(180deg);
+}
+
+.span-DL17 {
+    color: rgb(160,131,28);
+    font-size: 2rem;
+    font-family: 'Oranienbaum', serif;
+    text-align: center;
+    writing-mode: vertical-lr;
+    transform: rotate(180deg);
+}
+
+.span-DL18 {
+    color: rgb(11,47,156);
+    font-size: 2rem;
+    font-family: 'Oranienbaum', serif;
+    text-align: center;
+    writing-mode: vertical-lr;
+    transform: rotate(180deg);
+}
+
+.span-DL19 {
+    color: black;
+    font-size: 1.3rem;
+    font-family: 'Oranienbaum', serif;
+}
+
+.span-DL20 {
+    color: black;
+    font-size: 0.9rem;
+    font-family: 'Oranienbaum', serif;
+}
+
+.span-DL21 {
+    color: black;
+    font-size: 0.8rem;
+    font-family: 'Oranienbaum', serif;
+}
+
+.span-DL22 {
+    color: black;
+    font-size: 1rem;
+    font-family: 'Oranienbaum', serif;
+    text-align: center;
+}
+
+.span-DL23 {
+    color: white;
+    font-size: 1rem;
+    font-family: 'Oranienbaum', serif;
+    text-align: center;
+    background-color: black; 
+}
+
+.span-DL24 {
+    color: black;
+    font-size: 1rem;
+    font-family: 'Oranienbaum', serif;
+    text-align: center;
+    background-color: black; 
 }
 
 .fuente-nav {
@@ -83,5 +212,23 @@ div.ex-DL {
     color: white;
     font-family: 'Oranienbaum', serif;
     font-size: 2.3rem;
+
+}
+
+.carousel-indicators li {
+    display: inline-block;
+    width: 10px;
+    height: 10px;
+    margin: 1px;
+    text-indent: -999px;
+    cursor: pointer;
+    background-color: rgb(145,147,150);
+    border: 1px solid rgb(145,147,150);
+    border-radius: 10px;
+}
+
+.carousel-indicators .active{
+    background-color: rgb(173,142,116);
+    border: 1px solid rgb(173,172,116);
 
 }
