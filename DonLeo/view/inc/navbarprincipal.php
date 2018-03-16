@@ -12,26 +12,26 @@
                 </a>
 
                 <ul class="nav navbar-nav fuente-nav" style="float: right; padding-top:0.5%;">
-                    <li class="nav-item">
-                        <a class="nav-link" style="padding-right: 20px;" href="#Nosotros"><span class="span-DL1">•&nbsp;&nbsp;</span>Inicio</a>
+                <li class="nav-item">
+                        <a class="nav-link" style="padding-right: 20px;" href="<?php url("/") ?>"><span class="span-DL1">•&nbsp;&nbsp;</span>Inicio</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" style="padding-right: 20px;" href="#Servicios"><span class="span-DL1">•&nbsp;&nbsp;</span>La Casa</a>
+                        <a class="nav-link" style="padding-right: 20px;" href="<?php url("casa") ?>"><span class="span-DL1">•&nbsp;&nbsp;</span>La Casa</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" style="padding-right: 20px;" href="#Empresas"><span class="span-DL1">•&nbsp;&nbsp;</span>Visítanos</a>
+                        <a class="nav-link" style="padding-right: 20px;" href="<?php url("visitanos") ?>"><span class="span-DL1">•&nbsp;&nbsp;</span>Visítanos</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" style="padding-right: 20px;" href="#Contacto"><span class="span-DL1">•&nbsp;&nbsp;</span>Blog</a>
+                        <a class="nav-link" style="padding-right: 20px;" href="<?php url("blog") ?>"><span class="span-DL1">•&nbsp;&nbsp;</span>Blog</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" style="padding-right: 20px; " href="/blog"><span class="span-DL1">•&nbsp;&nbsp;</span>Club del Vino</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" style="padding-right: 20px; " href="/blog"><span class="span-DL1">•&nbsp;&nbsp;</span>Contacto</a>
+                        <a class="nav-link" style="padding-right: 20px; " href="<?php url("contacto") ?>"><span class="span-DL1">•&nbsp;&nbsp;</span>Contacto</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" style="padding-right: 20px; " href="/blog"><span class="span-DL1">•&nbsp;&nbsp;</span>Shop</a>
+                        <a class="nav-link" style="padding-right: 20px; " href="<?php url("shop") ?>"><span class="span-DL1">•&nbsp;&nbsp;</span>Shop</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" style="padding-right: 20px; " href="/blog"><span class="span-DL1">•&nbsp;&nbsp;</span>Vendimia</a>

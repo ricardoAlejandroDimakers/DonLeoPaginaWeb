@@ -4,7 +4,7 @@
     <meta charset="utf-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <title>Page Title</title>
-    <?php include(VISTA_RUTA."inc/head.php") ?>
+    <?php include(VISTA_RUTA."inc/head2.php") ?>
 
 </head>
 

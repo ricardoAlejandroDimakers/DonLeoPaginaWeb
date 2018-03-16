@@ -193,9 +193,15 @@
     font-size: 1.2rem;
 }
 
+
 .navbar.navbar-dark .navbar-nav .nav-item a {
-    color: black!important;
+    color: rgb(145,147,150);
     transition: .35s;
+}
+
+.navbar.navbar-dark .breadcrumb a:hover, .navbar.navbar-dark .navbar-nav .nav-item a:hover {
+    transition: .35s;
+    color: rgb(173,142,116);
 }
 
 .carousel indicators li indicadores{
