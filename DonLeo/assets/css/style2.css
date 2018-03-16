@@ -106,6 +106,11 @@ span.span-DL15 {
     transition: .35s;
 }
 
+.navbar.navbar-dark .breadcrumb a:hover, .navbar.navbar-dark .navbar-nav .nav-item a:hover {
+    transition: .35s;
+    color: rgb(173,142,116);
+}
+
 div.ex-DL {
     position: absolute;
     z-index: 1;
@@ -246,10 +251,7 @@ div.divisor-VDL3 {
     border: 4px solid rgb(173,142,116);
 }
 
-.navbar.navbar-dark .breadcrumb a:hover, .navbar.navbar-dark .navbar-nav .nav-item a:hover {
-    transition: .35s;
-    color: rgb(173,142,116);
-}
+
 
 #inicio {
     color: black;

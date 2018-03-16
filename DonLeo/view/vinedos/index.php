@@ -21,7 +21,7 @@
                 <hr style="width:6%; color:rgb(173,142,116)" class="hr-DL">
 
                 <video width="100%;" height="75%;"autoplay loop="1" controls>
-                <source src="<?php asset("img/VinosDonLeoFinal.mp4") ?>" type="video/mp4">
+                <source src="<?php asset("img/VinosDonLeoFinal1.mp4") ?>" type="video/mp4">
                 <source src="movie.ogg" type="video/ogg">
                 Your browser does not support the video tag.
                 </video>
