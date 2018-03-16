@@ -8,6 +8,10 @@ class PrincipalController {
         return Vista::crear("principal.index");
     }
 
+    public function insertar() {
+        return Vista::crear("principal.insertar");
+    }
+
     
     
 }
