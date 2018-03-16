@@ -34,7 +34,7 @@
                 <div class ="col-md-2">
                     <p class="span-DL22" align="center">PRECIO</p>
                 </div> 
-                <div class ="col-md-5">
+                <div class ="col-md-3">
                     <p class="span-DL22" align="center">CANTIDAD</p>
                 </div>
                 <div class ="col-md-2">
@@ -59,23 +59,36 @@
                 <p style="padding-top:47%;" class="span-DL22">$000.00</p><br>
                 <p style="padding-top:47%;" class="span-DL22">$000.00</p><br>
                 <p style="padding-top:47%;" class="span-DL22">$000.00</p><br>
-                <p style="padding-top:47%;" class="span-DL24">.</p><br>
             </div>
             <div class ="col-md-3">                               
                 <p style="padding-top:28%;" class="span-DL22">+ 1 -</p><br>
                 <p style="padding-top:28%;" class="span-DL22">+ 1 -</p><br>
                 <p style="padding-top:28%;" class="span-DL22">+ 1 -</p><br>
                 <p style="padding-top:28%;" class="span-DL22">+ 1 -</p><br>
-                <p style="padding-top:28%;" class="span-DL23">Total</p><br>
             </div>
             <div class ="col-md-2">                
                 <p style="padding-top:47%;" class="span-DL22">$000.00</p><br>
                 <p style="padding-top:47%;" class="span-DL22">$000.00</p><br>
                 <p style="padding-top:47%;" class="span-DL22">$000.00</p><br>
                 <p style="padding-top:47%;" class="span-DL22">$000.00</p><br>
-                <p style="padding-top:47%;" class="span-DL23">$000.00</p><br>
-            </div>        
-            <div align="center">
+            </div>  
+            <div class="row">
+                <div class="col-md-12" style="background-color:black; padding-top:5%;">
+                <div class ="col-md-5">
+                    
+                </div>
+                <div class ="col-md-2">
+                    
+                </div> 
+                <div class ="col-md-3">
+                    <p class="span-DL23" align="center">TOTAL</p>
+                </div>
+                <div class ="col-md-2">
+                    <p class="span-DL23" align="center">$000.00</p>
+                </div>
+                </div>
+            </div>      
+            <div align="center" style="padding-top:5%;">
                 <img src="<?php asset("img/botonCheckout.png") ?>" class="final-lg" style="width: 20%; margin-bottom: 5%;" >
             </div>
             </div>
